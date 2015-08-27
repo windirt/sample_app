@@ -8,6 +8,9 @@ gem 'rails', '4.2.2'
 gem 'bootstrap-sass', '3.2.0.0'
 gem 'bcrypt'
 gem 'sass-rails', '5.0.2'
+gem 'faker', '1.4.2'
+gem 'will_paginate', '3.0.7'
+gem 'bootstrap-will_paginate', '0.0.10'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.5.3'
 # Use CoffeeScript for .coffee assets and views
