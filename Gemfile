@@ -9,6 +9,9 @@ gem 'bootstrap-sass', '3.2.0.0'
 gem 'bcrypt'
 gem 'sass-rails', '5.0.2'
 gem 'faker', '1.4.2'
+gem 'carrierwave', '0.10.0'
+gem 'mini_magick', '3.8.0'
+gem 'fog', '1.23.0'
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 # Use Uglifier as compressor for JavaScript assets
@@ -44,7 +47,6 @@ group :development, :test do
   gem 'spring', '1.1.3'
 
 end
-
 
 
 group :test do
